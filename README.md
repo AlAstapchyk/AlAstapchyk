@@ -2,7 +2,9 @@
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning Unity and Blender
 - 💞️ I’m looking to collaborate on mobile game development on Unity
-- 📫 How to reach me: tel +375299035292, email alastapchyk@gmail.com 
+- 📖 I know languages: good Polish(B2), good English and Russian is native
+- 📚 I have been learning C# for 2 years and Unity for year.
+- 📫 You can contact me alastapchyk@gmail.com
 
 <!---
 AlAstapchyk/AlAstapchyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
