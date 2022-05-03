@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlAstapchyk (Alexander Astapchyk)
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning Unity and Blender
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on mobile game development on Unity
 - 📫 How to reach me: tel +375299035292, email alastapchyk@gmail.com 
 
 <!---
