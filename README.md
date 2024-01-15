@@ -1,7 +1,4 @@
 ## About me
-
-### I am frontend developer and:
-
   🎓 I am software engineering student in Lublin, Poland
   </br>
   🌍 I know languages: English, Polish and Russian is native 
