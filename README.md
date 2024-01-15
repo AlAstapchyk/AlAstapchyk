@@ -2,13 +2,13 @@
 
 ### I am frontend developer and:
 
-  🎓 I am software enginering student 
+  🎓 I am software engineering student in Lublin, Poland
   </br>
   🌍 I know languages: English, Polish and Russian is native 
   </br>
-  🕹️ I've been working on a mobile Unity 3d game for 9 months that was recently removed from google play
+  🕹️ I have experience in gamedev for a year
   </br>
-  ⚛️ Now I'm interested in front end development primarily with the React library for a year 
+  ⚛️ Now I'm interested in front end development primarily with the React library for more then year 
   </br>
 
 ### My main tech stack:
