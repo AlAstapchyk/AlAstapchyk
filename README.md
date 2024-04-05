@@ -1,13 +1,13 @@
 ## About me
-  🎓 I am Software Engineering student in Lublin, Poland
+  🎓 Software Engineering student in Lublin, Poland
   </br>
-  🌍 I know languages: English, Polish and Russian is native 
+  🌍 Proficient in English and Polish; Native Russian speaker
   </br>
-  🕹️ I have experience in gamedev for a year
+  🕹️ 1 year of experience in game development with Unity
   </br>
-  ⚛️ I'm immersed in frontend development primarily with React for more then year
+  ⚛️ Over a year of focus on frontend development, primarily with React
   </br>
-  🦄 Continue improving as a full stack
+  🦄 Currently enhancing skills in full-stack development
   </br>
 
 ### My main tech stack:
@@ -24,8 +24,9 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
